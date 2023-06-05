@@ -20,4 +20,4 @@ fastapi
 uvicore
 Jinja2
 
--e .
+# -e .

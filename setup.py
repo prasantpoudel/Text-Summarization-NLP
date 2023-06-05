@@ -7,7 +7,7 @@ __version__="0.0.0"
 
 REPO_NAME="Text-Summarization-NLP"
 AUTHOR_NAME="prasantpoudel"
-SRC_REPO="Text-Summarization"
+SRC_REPO="TextSummarization"
 AUTHOR_EMAIL="prasantpoudel33@gmail.com"
 
 setuptools.setup(
